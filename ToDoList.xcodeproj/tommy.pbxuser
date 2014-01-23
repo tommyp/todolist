@@ -1,0 +1,91 @@
+// !$*UTF8*$!
+{
+	65796F4E189078F90020EBE9 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 65A42AC31891519C00E9FD78 /* ToDoList */;
+		activeTarget = 65796F55189078F90020EBE9 /* ToDoList */;
+		codeSenseManager = 65A42ADE189151AB00E9FD78 /* Code sense */;
+		executables = (
+			65A42AC31891519C00E9FD78 /* ToDoList */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					808,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 412176796;
+			PBXWorkspaceStateSaveDate = 412176796;
+		};
+		sourceControlManager = 65A42ADD189151AB00E9FD78 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	65796F55189078F90020EBE9 /* ToDoList */ = {
+		activeExec = 0;
+		executables = (
+			65A42AC31891519C00E9FD78 /* ToDoList */,
+		);
+	};
+	65796F70189078FA0020EBE9 /* ToDoListTests */ = {
+		activeExec = 0;
+	};
+	65A42AC31891519C00E9FD78 /* ToDoList */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ToDoList;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	65A42ADD189151AB00E9FD78 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	65A42ADE189151AB00E9FD78 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
